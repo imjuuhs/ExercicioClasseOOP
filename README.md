@@ -1,13 +1,14 @@
 ## Exercício – Classe ContaBancaria
 UC Programação de Soluções Computacionais, Montanha - Unibh
 
-1. Objetivo
+1. **Objetivo**
     - Praticar encapsulamento de atributos
     - Implementar construtor
     - Criar métodos getter e setter
 
-2. Enunciado
-    Você deverá criar uma classe ContaBancaria que represente uma conta corrente em um banco. Essa classe deve atender aos seguintes requisitos:
+2. **Enunciado**
+   
+   Você deverá criar uma classe ContaBancaria que represente uma conta corrente em um banco. Essa classe deve atender aos seguintes requisitos:
 
 - Atributos privados
     - int numeroConta
