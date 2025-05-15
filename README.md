@@ -7,7 +7,7 @@ UC Programação de Soluções Computacionais, Montanha - Unibh
     - Criar métodos getter e setter
 
 2. Enunciado
-Você deverá criar uma classe ContaBancaria que represente uma conta corrente em um banco. Essa classe deve atender aos seguintes requisitos:
+    Você deverá criar uma classe ContaBancaria que represente uma conta corrente em um banco. Essa classe deve atender aos seguintes requisitos:
 
 - Atributos privados
     - int numeroConta
